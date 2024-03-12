@@ -4,14 +4,20 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to run the Flutter project:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+# Clone the GitHub repository
+git clone https://github.com/yoseptara/poloniex_app.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Clean the project
+flutter clean
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Get dependencies
+flutter pub get
+
+# Run the project
+flutter run
+```
+
 # file_and_local_storage_test_sample
